@@ -4,7 +4,7 @@
 <a href="https://github.com/ShivamGupta92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShivamGupta92" height="30" width="40"/>  </a>
 <a href="https://linkedin.com/in/shivamgupta05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamgupta05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivamgupta03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamgupta03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shivkamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivkamgupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shivkamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivkamgupta" height="30" width="40" /></a>
 <a href="https://twitter.com/Shivam_G03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shivam_G03" height="30" width="40" /></a></h1>
 
 <div align="center"><b><h2>UnderGraduate |<br> ML Intern '23 at Ezeiatech System PvtL| ML Intern '23 at WictroniX<br> | NITH Electronthon 5.0 Winner '23 </h2></b></div>

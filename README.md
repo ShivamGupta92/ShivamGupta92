@@ -1,4 +1,28 @@
-### Hi there 👋
+<h1 align="center"> Hey! I'm Shivam Gupta 👋. 
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> -->
+<p align="center">
+<a href="https://github.com/ShivamGupta92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShivamGupta92" height="30" width="40"/>  </a>
+<a href="https://linkedin.com/in/shivamgupta05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamgupta05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivamgupta03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamgupta03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@shivkamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivkamgupta" height="30" width="40" /></a>
+<a href="https://twitter.com/RGaurisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShivamGupta92" height="30" width="40" /></a></h1>
+
+<div align="center"><b><h2>UnderGraduate |<br> ML Intern '23 at Ezeiatech System PvtL| ML Intern '23 at WictroniX<br> | NITH Electronthon 5.0 Winner '23 </h2></b></div>
+
+I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep interest in Problem Solving. As a 'AI engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
+
+                        🔭 I’m currently working on Smart Traffic Management System
+
+                        🌱 I’m currently learning Blockchain, CNN, Deep Learning, UI/UX
+
+<div align="center">
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamGupta92&theme=github_dark" />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamGupta92&theme=github_dark"  />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamGupta92&theme=github_dark"  />
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamGupta92&theme=github_dark"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivamGupta92&theme=github_dark&utcOffset=8" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgupta92&show_icons=true&locale=en&layout=compact" alt="shivamgupta92&theme=github_dark" /> -->
+</div>
 
 <!--
 **ShivamGupta92/ShivamGupta92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,27 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta92&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta92" /> </p>
-
-- 🔭 I’m currently working on **smart traffic management system**
-
-- 🌱 I’m currently learning **Blockchain, CNN, Deep Learning, UI/UX**
-
-- 👨‍💻 All of my projects are available at [github](github)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivam_g03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_g03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivamgupta05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamgupta05" height="30" width="40" /></a>
-<a href="https://kaggle.com/shivamgupta502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamgupta502" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shivkamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivkamgupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamgupta03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamgupta03" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgupta92&show_icons=true&locale=en&layout=compact" alt="shivamgupta92" /></p>

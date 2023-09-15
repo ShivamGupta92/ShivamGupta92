@@ -1,17 +1,17 @@
 <!-- Your title -->
-<h1 align="center"> Hi! I'm Shivam Gupta 🚀
+<h1 align="center"> Hi! I'm Shivam Gupta 🚀</h1>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> -->
-<p align="center">
+<p align="center">   
 <!-- <a href="https://github.com/ShivamGupta92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShivamGupta92" height="30" width="40"/>  </a>
 <a href="https://linkedin.com/in/shivamgupta05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamgupta05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivamgupta03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamgupta03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivkamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivkamgupta" height="30" width="40" /></a>
-<a href="https://twitter.com/Shivam_G03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shivam_G03" height="30" width="40" /></a></h1>-->
-              
+<a href="https://twitter.com/Shivam_G03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shivam_G03" height="30" width="40" /></a>-->
+      
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShivamGupta92/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivamgupta05/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shivam._gupta3/)

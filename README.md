@@ -24,9 +24,9 @@ You can use the website to generate badges: https://shields.io/
 
 I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep interest in Problem Solving. As a 'AI engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
 
-                        🔭 I’m currently working on Smart Traffic Management System
-
-                        🌱 I’m currently learning Blockchain, CNN, Deep Learning, UI/UX
+                        🔭 I’m currently working on Generative AI
+                        
+                        🌱 I’m currently learning UI/UX, GAN's, Deep Learning, Blockchain
 
 <div align="center">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamGupta92&theme=github_dark" />

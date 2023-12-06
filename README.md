@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
       
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShivamGupta92/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivamgupta05/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shivam._gupta3/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shiivamgupta5/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232c5404?style=flat&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/shivkamgupta/)
 [![Twitter](https://img.shields.io/badge/Twitter-0078D4?style=flat&logo=Twitter&logoColor=Black)](https://twitter.com/Shivam_G03/)
 [![Leetcode](https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow)](https://www.leetcode.com/shivamgupta03/)

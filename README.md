@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 [![Leetcode](https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow)](https://www.leetcode.com/shivamgupta03/)
 
 
-<div align="center"><b><h2>UnderGraduate |<br> SIH 2023 Finalist |<br> ML Intern '23 at Ezeiatech System PvtL| ML Intern '23 at WictroniX<br> | NITH Electronthon 5.0 Winner '23 </h2></b></div>
+<div align="center"><b><h2>UnderGraduate| SIH 2023 Finalist |<br> ML Intern '23 at Ezeiatech System PvtL| ML Intern '23 at WictroniX<br> | NITH Electronthon 5.0 Winner '23 </h2></b></div>
 
 I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep interest in Problem Solving. As a 'AI engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
 

@@ -26,7 +26,7 @@ I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep intere
 
                         🔭 I’m currently working on Generative AI
                         
-                        🌱 I’m currently learning UI/UX, GAN's, Deep Learning, Blockchain
+                        🌱 I’m currently learning UI/UX, GAN's , Flask, Flutter, DL
 
 <div align="center">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamGupta92&theme=github_dark" />

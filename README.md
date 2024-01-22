@@ -6,18 +6,19 @@ You can use the website to generate badges: https://shields.io/
 
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> -->
 <p align="center">   
-<!-- <a href="https://github.com/ShivamGupta92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShivamGupta92" height="30" width="40"/>  </a>
-<a href="https://linkedin.com/in/shivamgupta05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamgupta05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamgupta03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamgupta03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivkamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivkamgupta" height="30" width="40" /></a>
-<a href="https://twitter.com/Shivam_G03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shivam_G03" height="30" width="40" /></a>-->
-      
+<a href="https://github.com/ShivamGupta92/" target="blank"><img align="center" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="ShivamGupta92"/></a>
+<a href="https://linkedin.com/in/shivamgupta05" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="shivamgupta05" /></a>
+<a href="https://www.instagram.com/shiivamgupta53/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="shiivamgupta53"/></a>
+<a href="https://www.hackerrank.com/shivkamgupta/" target="blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-%232c5404?style=flat&logo=hackerrank&logoColor=green" alt="@shivkamgupta"/></a>
+<a href="https://twitter.com/Shivam_G03/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-0078D4?style=flat&logo=Twitter&logoColor=Black" alt="Shivam_G03" /></a>
+<a href="https://www.leetcode.com/shivamgupta03/" target="blank"><img align="center" src="https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow" alt="shivamgupta03" /></a>
+<!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ShivamGupta92/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivamgupta05/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shiivamgupta5/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232c5404?style=flat&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/shivkamgupta/)
 [![Twitter](https://img.shields.io/badge/Twitter-0078D4?style=flat&logo=Twitter&logoColor=Black)](https://twitter.com/Shivam_G03/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow)](https://www.leetcode.com/shivamgupta03/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-black?style=flat&logo=Leetcode&logoColor=yellow)](https://www.leetcode.com/shivamgupta03/)-->
 
 
 <div align="center"><b><h2>UnderGraduate| SIH 2023 FINALIST |<br> Ex- ML Intern '23 at Ezeiatech System PvtL| Ex- ML Lead '23 at WictroniX<br> | NITH Electronthon 5.0 Winner '23 </h2></b></div>

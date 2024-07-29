@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
 I am a Deep Learning Enthusiast, Programmer, and Technologist with a deep interest in Problem Solving. As a 'AI engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
 
-                        🔭 I’m currently working on Generative AI
+                        🔭 I’m currently working on Generative AI and Game AI.
                         
                         🌱 I’m currently learning UI/UX, GAN's , Flask, Flutter, DL
 
